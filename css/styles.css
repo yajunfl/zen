@@ -708,10 +708,9 @@ a:hover {
   }
 
   .contact-us-footer {
-    padding-bottom: 30%;
+    padding-bottom: 75% !important;
   }
-
-  /* *************view-gallary************ */
+/* *************view-gallary************ */
   .first-line-gallery {
     text-align: left;
     font-size: 3em;
